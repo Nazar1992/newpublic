@@ -19,7 +19,7 @@ public class Main {
 			
 			System.out.println("master");
 			
-			System.out.println("from git");
+			System.out.println("from git1");
 			
 		}
 
